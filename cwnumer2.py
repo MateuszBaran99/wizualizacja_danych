@@ -43,3 +43,5 @@ print(list(range(10, 0, -2)))
 #x
 imie = "Malgorzata"
 print(imie[0:6:2])
+
+#tak testowo aby nie bylo ze dziala
