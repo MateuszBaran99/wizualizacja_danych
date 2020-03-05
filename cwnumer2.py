@@ -45,3 +45,4 @@ imie = "Malgorzata"
 print(imie[0:6:2])
 
 #tak testowo aby nie bylo ze dziala
+#czarnobyl
