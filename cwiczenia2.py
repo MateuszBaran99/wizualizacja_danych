@@ -40,6 +40,6 @@ for liczba in range(5): #start, stop, step
 print(list(range(5)))
 # [0, 1, 2, 3, 4]
 print(list(range(10, 0, -2)))
-
+#x
 imie = "Malgorzata"
 print(imie[0:6:2])
