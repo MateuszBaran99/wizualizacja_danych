@@ -1,0 +1,1 @@
+all = ["dodawanie_odejmowanie", "urojona_rzeczywista"]
